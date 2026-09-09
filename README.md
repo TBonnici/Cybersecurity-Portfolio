@@ -32,15 +32,20 @@ Entry-level data security analyst with hands-on experience in log analysis, SOC 
 #### 3. Network Traffic Analysis: SYN Flood DoS Investigation
 * **Objective:** Diagnose a network interruption causing server connection timeouts.
 * **Methodology:** Analyzed the TCP three-way handshake process to determine that a malicious actor overwhelmed the web server's resources by flooding it with incomplete SYN packets[cite: 8]. 
-* **Key Artifacts:** [View Network Traffic Incident Report]((https://docs.google.com/document/d/11Ln9tgnhgXq6yy2y5D6OdL-payecqCwsCyqDp6b7BmE/edit?usp=drive_link))
+* **Key Artifacts:** [View Network Traffic Incident Report](https://docs.google.com/document/d/11Ln9tgnhgXq6yy2y5D6OdL-payecqCwsCyqDp6b7BmE/edit?usp=drive_link)
 
 #### 4. Risk Management: Server Vulnerability Assessment
 * **Objective:** Evaluate the security posture and access controls of a critical business database.
 * **Methodology:** Utilized the NIST SP 800-30 Rev. 1 framework to assess a Linux/MySQL server environment, calculating a formal risk matrix based on threat likelihood and business severity[cite: 12]. 
 * **Remediation:** Recommended enforcing role-based access controls, TLS data encryption, and IP allow-listing[cite: 12].
-* **Key Artifacts:** [View Vulnerability Assessment Report](./vulnerability-assessment/)
+* **Key Artifacts:** [View Vulnerability Assessment Report](https://docs.google.com/document/d/1So00E3qLh2JHNPvmWC9EhCdGGncwcdF0H9GeHQmkQGw/edit?usp=drive_link)
 
 #### 5. Data Analytics: Multi-Year League Performance Modeling
 * **Objective:** Transform unstructured performance data into a normalized, filterable relational dataset to scout capabilities and project trends.
 * **Methodology:** Standardized multi-year records (one row per entity per season) to build interactive summary views, demonstrating proficiency in data hygiene and tabular structuring.
 * **Key Artifacts:** [View Comprehensive Analytics Spreadsheet](./data-analytics/)
+
+* #### 6. Incident Response: Incident Handler's Journal
+* **Objective:** Document and execute structured incident handling procedures across simulated security events.
+* **Methodology:** Followed the NIST incident response lifecycle (Preparation, Detection, Containment, Eradication, Recovery, Lessons Learned) to isolate compromised assets and preserve evidence integrity.
+* **Key Artifacts:** [View Full Incident Journal & Remediation Logs](https://docs.google.com/document/d/1ua-2mlZTBPfa9MGVIxJSgIXGwFtv0Ph3L-1h-V--7Bc/edit?usp=drive_link)
