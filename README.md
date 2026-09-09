@@ -1,8 +1,8 @@
 # Cybersecurity-Portfolio
 # Tommy Bonnici | Data Security Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Contact-Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tommy-bonnici-1869943b9)
+[![Email](https://img.shields.io/badge/Contact-Email-red?style=flat&logo=gmail)](mailto:tbonnici34@gmail.com)
 **Location:** Lake Orion, MI | **Open to Relocation:** Metro Detroit (Troy, Royal Oak, Clarkston), Colorado, Arizona
 
 Entry-level data security analyst with hands-on experience in log analysis, SOC alert triage, network traffic investigation, and data normalization. 
