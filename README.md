@@ -27,12 +27,12 @@ Entry-level data security analyst with hands-on experience in log analysis, SOC 
 #### 2. Security Operations: Phishing & Malware Alert Triage
 * **Objective:** Investigate and escalate a medium-severity endpoint alert involving a malicious payload.
 * **Methodology:** Analyzed a spoofed email header, identified the malicious password-protected attachment `bfsvc.exe`, and verified the threat against a known malicious file hash before escalating the ticket to a Level-Two SOC Analyst[cite: 3].
-* **Key Artifacts:** [View Incident Ticket & Documentation](./soc-alert-triage/)
+* **Key Artifacts:** [View Incident Ticket & Documentation](https://docs.google.com/document/d/17ZeyBIE4uKMbtyUJ1x6By3ph5PsB2OPBLBVWXUPaqPY/edit?usp=drive_link)
 
 #### 3. Network Traffic Analysis: SYN Flood DoS Investigation
 * **Objective:** Diagnose a network interruption causing server connection timeouts.
 * **Methodology:** Analyzed the TCP three-way handshake process to determine that a malicious actor overwhelmed the web server's resources by flooding it with incomplete SYN packets[cite: 8]. 
-* **Key Artifacts:** [View Network Traffic Incident Report](./network-traffic-analysis/)
+* **Key Artifacts:** [View Network Traffic Incident Report]((https://docs.google.com/document/d/11Ln9tgnhgXq6yy2y5D6OdL-payecqCwsCyqDp6b7BmE/edit?usp=drive_link))
 
 #### 4. Risk Management: Server Vulnerability Assessment
 * **Objective:** Evaluate the security posture and access controls of a critical business database.
