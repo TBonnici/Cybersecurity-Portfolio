@@ -1,5 +1,5 @@
 # Cybersecurity-Portfolio
-# [Your Name] | Data Security Analyst
+# Tommy Bonnici | Data Security Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Contact-Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
