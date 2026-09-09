@@ -22,7 +22,7 @@ Entry-level data security analyst with hands-on experience in log analysis, SOC 
 #### 1. Security Logging: SQL Data Filtering & Threat Hunting
 * **Objective:** Query security logs to isolate unauthorized access attempts outside of business hours and expected geographic regions.
 * **Methodology:** Applied SQL `WHERE` clauses, boolean operators (`AND`, `OR`, `NOT`), and wildcards (`%`) to extract specific security events from the `log_in_attempts` and `employees` databases[cite: 2].
-* **Key Artifacts:** [View SQL Queries & Log Analysis](./sql-log-analysis/)
+* **Key Artifacts:** [View SQL Queries & Log Analysis]([./sql-log-analysis/](https://docs.google.com/document/d/1GSgKcE6IdHSWQuJkKgLrJkdInp1_fVS-vIbp-2acM2U/edit?usp=drive_link)
 
 #### 2. Security Operations: Phishing & Malware Alert Triage
 * **Objective:** Investigate and escalate a medium-severity endpoint alert involving a malicious payload.
