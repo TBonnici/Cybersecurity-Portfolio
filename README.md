@@ -43,7 +43,7 @@ Entry-level data security analyst with hands-on experience in log analysis, SOC 
 #### 5. Data Analytics: Multi-Year League Performance Modeling
 * **Objective:** Transform unstructured performance data into a normalized, filterable relational dataset to scout capabilities and project trends.
 * **Methodology:** Standardized multi-year records (one row per entity per season) to build interactive summary views, demonstrating proficiency in data hygiene and tabular structuring.
-* **Key Artifacts:** [View Comprehensive Analytics Spreadsheet](./data-analytics/)
+* **Key Artifacts:** [View Comprehensive Analytics Spreadsheet](https://docs.google.com/spreadsheets/d/11fV92_r72N1KHvNAWVLd_y_OalYvJAv_TdhFAJLfqdQ/edit?usp=drive_link)
 
 * #### 6. Incident Response: Incident Handler's Journal
 * **Objective:** Document and execute structured incident handling procedures across simulated security events.
